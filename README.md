@@ -3,8 +3,6 @@ This is a small single page application using the PokéAPI RESTful API to pull d
 
 
 
-# Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
